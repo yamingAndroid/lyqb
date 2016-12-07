@@ -1,4 +1,8 @@
 package com.ryin.playfulview;
+/**
+ * 这个项目是有问题的；
+ * 这个项目是有问题的；
+ */
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
